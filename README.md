@@ -23,7 +23,7 @@ Edit the searchQuery variable in searcher.py to specify the search query
 ```
 searchQuery = 'your query'
 ```
-After running Elasticsearch locally, run indexer.py first, then edit the query in searcher.py and run.
+After running Elasticsearch locally, run indexer.py first, to create "successfullyIndexedIdList.txt", then edit the query in searcher.py and run.
 ## License
 [MIT](LICENSE)
 
