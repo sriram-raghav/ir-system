@@ -6,7 +6,7 @@ Install ElasticSearch for Python, can be installed using pip:
 ```
 pip install elasticsearch
 ```
-Run Elasticsearch instructions can be found at the following link:
+Elasticsearch setup instructions can be found at the following link:
 ```
 https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started-install.html
 ```
